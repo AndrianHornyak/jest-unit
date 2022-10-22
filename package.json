@@ -1,0 +1,15 @@
+{
+    "name": "jest-unit",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": ["tests", "unit"],
+    "author": "adrian_hornyak",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.2.1"
+    }
+}
